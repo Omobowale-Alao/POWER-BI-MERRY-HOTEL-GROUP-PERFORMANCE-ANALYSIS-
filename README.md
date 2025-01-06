@@ -1,4 +1,4 @@
-**Merry Hotel Group Performance Analysis**
+**MERRY HOTEL GROUP PERFORMANCE ANALYSIS**
 
 This repository contains an analysis of Merry Hotel Group’s performance, focusing on revenue, cancellations, and customer trends across key markets. It provides actionable insights and recommendations to enhance revenue generation, reduce cancellations, and improve market strategies.
 
@@ -43,8 +43,11 @@ This repository contains an analysis of Merry Hotel Group’s performance, focus
 **Overview**
 
 The analysis highlights the following key findings:
+
 •	Nigeria leads in bookings, revenue, cancellations, and revenue loss, reflecting its dominant role but also operational challenges.
+
 •	Revenue is primarily driven by Africa (Nigeria and Ghana) and Europe (France, Spain, and Germany).
+
 •	High cancellation rates, especially in Nigeria, are impacting overall revenue performance.
 
 
