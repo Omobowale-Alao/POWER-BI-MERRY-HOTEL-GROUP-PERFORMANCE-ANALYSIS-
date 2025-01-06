@@ -4,39 +4,39 @@ This repository contains an analysis of Merry Hotel Group’s performance, focus
 
 **Data Dictionary:**
 
-• Booking ID: Unique identifier for each booking. 
+• **Booking ID:** Unique identifier for each booking. 
 
-• Hotel: Type or name of the hotel within the Merry Hotel Group (MHG).
+• **Hotel:** Type or name of the hotel within the Merry Hotel Group (MHG).
 
  • Booking Date: Date when the booking was made. 
  
-• Arrival Date: Date when the guests are scheduled to arrive. 
+• **Arrival Date:** Date when the guests are scheduled to arrive. 
 
-• Lead Time: Number of days between the booking date and arrival date.
+• **Lead Time:** Number of days between the booking date and arrival date.
 
-• Nights: Number of nights the guests are booked to stay. 
+• **Nights:** Number of nights the guests are booked to stay. 
 
-• Guests: Number of guests included in the booking. 
+• **Guests:** Number of guests included in the booking. 
 
-• Distribution Channel: The channel through which the booking was made (e.g., Direct, Online Travel Agent, Offline Travel Agent). 
+• **Distribution Channel:** The channel through which the booking was made (e.g., Direct, Online Travel Agent, Offline Travel Agent). 
 
-• Customer Type: Type of customer making the booking (e.g., Transient, Corporate).
+• **Customer Type:** Type of customer making the booking (e.g., Transient, Corporate).
 
-• Country: Country of origin of the guests. 
+• **Country:** Country of origin of the guests. 
 
-• Deposit Type: Whether a deposit was made for the booking (e.g., No Deposit, Deposit). 
+• **Deposit Type:** Whether a deposit was made for the booking (e.g., No Deposit, Deposit). 
 
-• Avg Daily Rate: Average daily rate for the booking. 
+• **Avg Daily Rate:** Average daily rate for the booking. 
 
-• Status: Status of the booking (e.g., Check-Out, Canceled). 
+• **Status:** Status of the booking (e.g., Check-Out, Canceled). 
 
-• Status Update: Date of the last status update for the booking. 
+• **Status Update:** Date of the last status update for the booking. 
 
-• Canceled (0/1): Binary indicator of whether the booking was canceled (1 if canceled, 0 if not canceled). 
+• **Canceled (0/1):** Binary indicator of whether the booking was canceled (1 if canceled, 0 if not canceled). 
 
-• Revenue: Revenue generated from the booking. 
+• **Revenue:** Revenue generated from the booking. 
 
-• Revenue Loss: Loss in revenue if the booking was canceled (negative value if the booking wasn't canceled).
+• **Revenue Loss:** Loss in revenue if the booking was canceled (negative value if the booking wasn't canceled).
 
 
 
@@ -55,7 +55,9 @@ The analysis highlights the following key findings:
 3.	Address Revenue Loss
  
 **How to Use This Repository**
+
 • Data Analysis: Explore scripts and visualizations to understand revenue, cancellations, and market performance.
+
 • Recommendations: Access detailed insights and strategies to guide decision-making.
 
 For questions, feedback, or contributions, feel free to reach out via +447900910071.
