@@ -8,7 +8,7 @@ This repository contains an analysis of Merry Hotel Group’s performance, focus
 
 • **Hotel:** Type or name of the hotel within the Merry Hotel Group (MHG).
 
- • Booking Date: Date when the booking was made. 
+ • **Booking Date:** Date when the booking was made. 
  
 • **Arrival Date:** Date when the guests are scheduled to arrive. 
 
@@ -43,7 +43,6 @@ This repository contains an analysis of Merry Hotel Group’s performance, focus
 **Overview**
 
 The analysis highlights the following key findings:
-
 •	Nigeria leads in bookings, revenue, cancellations, and revenue loss, reflecting its dominant role but also operational challenges.
 •	Revenue is primarily driven by Africa (Nigeria and Ghana) and Europe (France, Spain, and Germany).
 •	High cancellation rates, especially in Nigeria, are impacting overall revenue performance.
@@ -56,8 +55,9 @@ The analysis highlights the following key findings:
  
 **How to Use This Repository**
 
-• Data Analysis: Explore scripts and visualizations to understand revenue, cancellations, and market performance.
+• **Data Analysis:** Explore scripts and visualizations to understand revenue, cancellations, and market performance.
 
-• Recommendations: Access detailed insights and strategies to guide decision-making.
+• **Recommendations:** Access detailed insights and strategies to guide decision-making.
+
 
 For questions, feedback, or contributions, feel free to reach out via +447900910071.
